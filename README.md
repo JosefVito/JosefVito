@@ -5,6 +5,7 @@
 ### Freelance Full-Stack Developer · Next.js · TypeScript · Headless Commerce
 
 ![Available now](https://img.shields.io/badge/●_Available_now-2EA44F?style=flat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-josefvito.vercel.app-000?style=flat&logo=vercel&logoColor=white)](https://josefvito.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josefvitoevangelista/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:josefvitomangalino@gmail.com)
 
@@ -49,4 +50,4 @@ flowchart LR
 
 ## Contact
 
-📩 josefvitomangalino@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/josefvitoevangelista/) · 🌐 Portfolio coming soon
+📩 josefvitomangalino@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/josefvitoevangelista/) · 🌐 [josefvito.vercel.app](https://josefvito.vercel.app/)
